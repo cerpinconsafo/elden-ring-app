@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This is a shoddy attempt at using the free chatGPT model version (unk, JULY 2023) to create a SOMEWHAT simple application using the Elden Ring API.
+
+## THe purpose of this app was a fun DEATH COUNT tracker for ELDEN RING boss attempts, where players would be able to manually enter or keep track of their boss attemtps and in turn display this data as a graph or chart and also be able to compare DEATH COUNTS to other users/characters FOR FUN.
+
+## Make this description better and more refines please 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
