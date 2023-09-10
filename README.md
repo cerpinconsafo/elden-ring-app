@@ -6,6 +6,13 @@
 
 ## I will admit, I am very new at using this, and was simply trying to experiment and see if a very simple idea could be executed without any manual intervention outside of manipulating the AI.
 
+### Current issue 09.13.23
+The API wont fetch ALL the bosses for some reason. I can get them to fetch different pages of 20 bosses each, but not all of them. This may be a limitation of the api, the way I am trying to use the call, or something else I cannot explain yet.
+
+When the page loads, the dropdown menu is fully populated, in alphabetical order, of the first 20 ELDEN RING bosses in the list. When entering text into the 'search boss' field, it begins to sort the available entries in the drop down, hiding them until the user manually clicks the 'select boss' drop down menu.
+
+I do like this, because it avoids a user being spoiled other boss names, and from seeing a list of ALL the bosses, but this is still not the entirely intended functionality that I want.
+
 ## REACT APP stuff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
