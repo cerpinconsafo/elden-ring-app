@@ -2,8 +2,11 @@
 
 ## THe purpose of this app was a fun DEATH COUNT tracker for ELDEN RING boss attempts, where players would be able to manually enter or keep track of their boss attemtps and in turn display this data as a graph or chart and also be able to compare DEATH COUNTS to other users/characters FOR FUN.
 
-## Make this description better and more refines please 
+## So far, this project is showing the LIMITs of the free chatGPT model. It will usually provide outdated information/code at first, and when fed the errors, may attempt to apologize for giving you outdated info, may give you an alternative and/or updated code set to fix the error, or simply apologize and redirect you to documentation. 
 
+## I will admit, I am very new at using this, and was simply trying to experiment and see if a very simple idea could be executed without any manual intervention outside of manipulating the AI.
+
+## REACT APP stuff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
